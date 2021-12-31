@@ -1,0 +1,71 @@
+,condition
+Birth Control,28783
+Depression,9068
+Pain,6145
+Anxiety,5899
+Acne,5587
+Bipolar Disorde,4223
+Insomnia,3672
+Weight Loss,3608
+Obesity,3568
+ADHD,3382
+"Diabetes, Type 2",2554
+Emergency Contraception,2463
+High Blood Pressure,2320
+Vaginal Yeast Infection,2273
+Abnormal Uterine Bleeding,2096
+Bowel Preparation,1859
+ibromyalgia,1791
+Smoking Cessation,1780
+Migraine,1694
+Anxiety and Stress,1663
+Major Depressive Disorde,1607
+Constipation,1594
+Panic Disorde,1463
+Chronic Pain,1455
+Migraine Prevention,1413
+Urinary Tract Infection,1316
+Muscle Spasm,1243
+Osteoarthritis,1239
+Generalized Anxiety Disorde,1164
+Erectile Dysfunction,1086
+Opiate Dependence,1079
+Irritable Bowel Syndrome,1014
+Rheumatoid Arthritis,995
+Allergic Rhinitis,973
+Bacterial Infection,945
+Cough,927
+Sinusitis,835
+Nausea/Vomiting,747
+GERD,722
+Multiple Sclerosis,698
+Overactive Bladde,682
+Hyperhidrosis,677
+Hepatitis C,656
+Back Pain,615
+HIV Infection,615
+High Cholesterol,611
+Psoriasis,598
+Schizophrenia,594
+"Constipation, Chronic",591
+Obsessive Compulsive Disorde,579
+Restless Legs Syndrome,565
+Benign Prostatic Hyperplasia,561
+Endometriosis,558
+Bronchitis,550
+Bacterial Vaginitis,524
+Rosacea,519
+Seizures,508
+Narcolepsy,506
+"Hypogonadism, Male",502
+"Asthma, Maintenance",501
+Headache,473
+Underactive Thyroid,449
+Not Listed / Othe,439
+Schizoaffective Disorde,396
+"Onychomycosis, Toenail",396
+Bladder Infection,395
+Social Anxiety Disorde,389
+Alcohol Dependence,388
+Herpes Simplex,386
+Osteoporosis,372
